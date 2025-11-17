@@ -23,4 +23,4 @@ Agora introduces a trustless trading platform that guarantees both asset and pay
 * **Convenience:** Offers a single meeting point for people to meet and exchange. 
 
 ## User Flow
-![Agora user Flow] (./Agora.jpg)
+![Agora user Flow](./Agora.jpg)
